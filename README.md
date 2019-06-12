@@ -1,2 +1,2 @@
-# sqlissuesSolved
-how it is solved sa and its password
+# sql sa login issues Solved
+solving sa and its password login easly.
